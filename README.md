@@ -15,16 +15,16 @@ wholesomeBot is a discord bot made using python and hosten on Heroku, for wholes
 
 ## Commands
 
-> wholesomeBot uses '~' as suffix
+wholesomeBot uses '~' as suffix
 
 |  command  |              working              |
 |:---------:|:---------------------------------:|
-|    help   | tells how to use the wholesomeBot |
-|    all    |    gives a list of all commands   |
-| wholesome |   gives a random wholesome quote  |
-|    meme   |   gives a random wholesome meme   |
-|     qt    |       gives you're a qt meme      |
-|    ily    |    gives an i love you message    |
+|   ~help   | tells how to use the wholesomeBot |
+|   ~all    |    gives a list of all commands   |
+|~wholesome |   gives a random wholesome quote  |
+|   ~meme   |   gives a random wholesome meme   |
+|    ~qt    |       gives you're a qt meme      |
+|   ~ily    |    gives an i love you message    |
 
 ## Info
 Currently, wholesomeBot is under development, we're adding more commands and making it easy to use, so do give your suggestions!
