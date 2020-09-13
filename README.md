@@ -48,8 +48,6 @@ wholesomeBot uses '~' as suffix
 
 ![2](https://user-images.githubusercontent.com/58616444/93016136-9636b780-f5dc-11ea-91b1-0d80d4eea9c4.PNG)
 
-![3](https://user-images.githubusercontent.com/58616444/93016140-a0f14c80-f5dc-11ea-9a9e-2ed64a7e7473.PNG)
-
 ## Information
 
 wholesomeBot is a simple bot made using `discord.py` and `python` by [Devansh](https://github.com/Devansh3712). This bot consists of many basic commands, and over a 1000 wholesome memes for the users. Use the above link to add the bot to your discord server. Currently under development, we're trying to make it more easier to use and have a vast amount of functions, and your support is needed!
