@@ -24,14 +24,26 @@ Add wholesomeBot to your server
 
 wholesomeBot uses '~' as suffix
 
-|  command  |              working              |
-|:---------:|:---------------------------------:|
-|   ~help   | tells how to use the wholesomeBot |
-|   ~all    |    gives a list of all commands   |
-|~wholesome |   gives a random wholesome quote  |
-|   ~meme   |   gives a random wholesome meme   |
-|    ~qt    |       gives you're a qt meme      |
-|   ~ily    |    gives an i love you message    |
+|    command   |                    working                    |
+|:------------:|:---------------------------------------------:|
+|    `~all`    |          Returns list of all commands         |
+| `~wholesome` |     Responds with a random wholesome quote    |
+|    `~meme`   |     Responds with a random wholesome meme     |
+|     `~qt`    |       Responds with you're a cutie meme       |
+|    `~ily`    |   Responds with a random I love you message   |
+|    `~coco`   |        Responds with something special        |
+|   `~pickup`  |       Responds with a cheesy pickup line      |
+|   `~hello`   |         Responds with have a nice day         |
+|    `~love`   |           Responds with a love meme           |
+|  `~cheerup`  |          Responds with a cheerup meme         |
+|    `~noU`    |         Responds with uno reverse card        |
+|   `~homie`   |      Responds with wholesome homie memes      |
+|     `~bb`    | Returns something special for the office fans |
+|    `~ohh`    |    Responds with the yellow sunglasses guy    |
+|    `~info`   |   Returns information about the wholesomeBot  |
 
-## Info
-Currently, wholesomeBot is under development, we're adding more commands and making it easy to use, so do give your suggestions!
+## Information
+
+wholesomeBot is a simple bot made using `discord.py` and `python` by [Devansh](https://github.com/Devansh3712). This bot consists of many basic commands, and over a 1000 wholesome memes for the users. Use the above link to add the bot to your discord server. Currently under development, we're trying to make it more easier to use and have a vast amount of functions, and your support is needed!
+
+Do give your suggestions [here](mailto:devanshamity@gmail.com), it would really help us :)
