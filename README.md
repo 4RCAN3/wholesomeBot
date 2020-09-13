@@ -5,8 +5,6 @@ wholesomeBot is a discord bot made using python and hosten on Heroku, for wholes
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
----
-
 ## Usage
 
 - Add wholesomeBot to your server
