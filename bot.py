@@ -45,6 +45,13 @@ async def love(ctx):
     await ctx.send(file=discord.File(response))
 
 @client.command()
+async def she(ctx):
+    responses = open('twss.txt').read().splitlines()
+    random.seed(a=None)
+    response = './twss/'+random.choice(responses)
+    await ctx.send(file=discord.File(response))
+
+@client.command()
 async def cheerup(ctx):
     responses = open('cheerup.txt').read().splitlines()
     random.seed(a=None)
@@ -114,6 +121,7 @@ async def all(ctx):
     embed.add_field(name='~homie', value='Responds with a homies meme <3', inline=False)
     embed.add_field(name='~bb', value='For the office fans ;)', inline=False)
     embed.add_field(name='~ohh', value='Remember the yellow sunglasses guy?', inline=False)
+    embed.add_field(name='~she', value='THAT\'S WHAT SHE SAID!', inline=False)
     await ctx.send(embed=embed)
 
 @client.command(pass_context=True)
