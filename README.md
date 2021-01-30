@@ -18,7 +18,7 @@ wholesomeBot is a discord bot made using python and hosted on Heroku, for wholes
 
 Add wholesomeBot to your server
 
-[![wholesomeBot](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.com/api/oauth2/authorize?client_id=753959496937898095&permissions=8&scope=bot)
+[![wholesomeBot](https://img.shields.io/badge/%3CwholesomeBot%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=753959496937898095&permissions=8&scope=bot)
 
 ## Commands
 
